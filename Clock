@@ -1,4 +1,4 @@
-// A digital clock using C
+// A digital timer clock using C
 
 // Import the header files
 #include <stdio.h>
